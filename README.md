@@ -1,0 +1,1 @@
+# .composer-require-checker.json
